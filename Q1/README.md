@@ -1,1 +1,12 @@
 The use of deep neural networks for image classification has seen significant advancements. However, these networks are usually very deep and require substantial computational power and system memory. Additionally, the depth of these networks results in very long training times. In the attached paper ([Part1.pdf](https://github.com/ErfanPanahi/Convolutional-Neural-Networks-CNNs/blob/main/Q1/Part1.pdf)), a new architecture is proposed that achieves accuracy nearly comparable to deep convolutional neural networks, but with fewer layers.
+
+## Data preparation and preprocessing
+
+
+## Explanation of the various layers of the network architecture
+
+
+## Implementation of the architecture
+
+
+## Implementation results
