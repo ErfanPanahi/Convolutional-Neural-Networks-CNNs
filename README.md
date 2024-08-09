@@ -3,7 +3,7 @@ In this repository, I want to examine two applications of CNNs in image processi
 
 ## **Question 1.** Sallow CNN for image Classification [![Static Badge](https://img.shields.io/badge/Question.1-Open-blue)]([https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q1](https://github.com/ErfanPanahi/Convolutional-Neural-Networks-CNNs/tree/main/Q1))
 
-The use of deep neural networks for image classification has seen significant advancements. However, these networks are usually very deep and require substantial computational power and system memory. Additionally, the depth of these networks results in very long training times. In the attached paper ([SCNNB.pdf](https://github.com/ErfanPanahi/Convolutional-Neural-Networks-CNNs/blob/main/Q1/Part1.pdf)), a new architecture is proposed that achieves accuracy nearly comparable to deep convolutional neural networks, but with fewer layers.
+The use of deep neural networks for image classification has seen significant advancements. However, these networks are usually very deep and require substantial computational power and system memory. Additionally, the depth of these networks results in very long training times. In the attached paper ([Part1.pdf](https://github.com/ErfanPanahi/Convolutional-Neural-Networks-CNNs/blob/main/Q1/Part1.pdf)), a new architecture is proposed that achieves accuracy nearly comparable to deep convolutional neural networks, but with fewer layers.
 
 ## **Question 2.** Classification of Chest X-Ray Images [![Static Badge](https://img.shields.io/badge/Question.2-Open-green)]([https://github.com/ErfanPanahi/Mcculloch-Pitts-and-Fully-Connected-Neural-Networks/tree/main/Q2](https://github.com/ErfanPanahi/Convolutional-Neural-Networks-CNNs/tree/main/Q2))
 
